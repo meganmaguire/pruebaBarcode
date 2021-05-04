@@ -1,6 +1,5 @@
 package com.example.pruebaBarcode.controller;
 
-import com.example.pruebaBarcode.service.BarbecueService;
 import com.example.pruebaBarcode.service.Barcode4jService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
